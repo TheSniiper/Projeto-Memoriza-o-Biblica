@@ -1,13 +1,7 @@
-Projeto-Memorizacao-Biblica
-Caderno Temático no NotebookLM focado em memorização bíblica (ARC) e doutrina cristã, desenvolvido para o desafio de projeto da DIO.
-
-Projeto Sentinela da Palavra: Estudo Bíblico com NotebookLM
-
 Contexto
-Este projeto nasce da necessidade de utilizar a Inteligência Artificial como uma ferramenta de apoio ao estudo profundo das Escrituras Sagradas. O foco é a versão **Almeida Revista e Corrigida (ARC)**, integrando os ensinos e a doutrina da **Igreja Cristã Maranata**. O objetivo é transformar o estudo passivo em uma experiência ativa de aprendizado e memorização.
+Este projeto utiliza o NotebookLM para criar um guia de aprendizagem acelerada baseado na metodologia de **Pierluigi Piazzi**. O foco é transformar o "aluno passivo" em um "estudante ativo", otimizando o tempo de estudo noturno.
 
 Objetivos
-**Memorização Ativa:** Utilizar o NotebookLM para criar quizzes e resumos que facilitem a retenção de versículos-chave.
-**Alinhamento Doutrinário:** Garantir que as interpretações geradas pela IA sejam filtradas e validadas conforme a doutrina bíblica ensinada na Maranata.
-**Maturidade Técnica:** Demonstrar competência em Curadoria de Fontes e Engenharia de Prompts dentro do ecossistema de IA.
-**Acessibilidade:** Criar um guia reutilizável para outros irmãos e estudantes que desejam usar a tecnologia para o crescimento espiritual.
+**Aplicação do Ciclo de Pier:** Estruturar o estudo para respeitar a regra "Aula dada, aula estudada hoje".
+**Atividade Cognitiva:** Criar prompts que incentivem a escrita e a síntese manual de conteúdos.
+**Eficiência de Memória:** Utilizar a IA para validar o conhecimento retido antes do período de sono.
