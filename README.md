@@ -95,3 +95,9 @@ Com ajuda da IA (NotebookLM) podemos sanar todas nossas dúvidas como se fosse o
 * [ ] **Ciclo 2 (40 min):** Resolução de questões e identificação de "dívidas" teóricas.
 * [ ] **Consolidação (25 min):** Revisão rápida do que foi escrito e organização para o sono.
 * [ ] **O "Commit" Biológico:** Mínimo de 7h a 8h de sono para fixar o conteúdo no "HD".
+
+
+## Link do Projeto (NotebookLM)
+Você pode acessar a base de conhecimento e os relatórios gerados por este projeto através do link abaixo:
+
+[Acessar Projeto no NotebookLM](https://notebooklm.google.com/notebook/4490337f-4e4a-4513-b576-8b38a2661af3)
